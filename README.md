@@ -22,3 +22,5 @@ Table of contents
 4. Large Language Model's (L.L.M.) for Impact Mechanics
  - How to automate task's through pipelining
  - Finding the best suited locally ran L.L.M. 
+
+My notes will be updates continuously, and added as a PDF.
